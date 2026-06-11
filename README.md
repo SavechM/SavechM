@@ -3,7 +3,6 @@
 We help Florida local businesses stop doing things manually.
 
 ## What We Build
-- GoHighLevel (GHL) CRM systems & automations
 - AI workflows that handle lead follow-up, bookings, and ops
 - Custom AI agents for service businesses across Florida
 
