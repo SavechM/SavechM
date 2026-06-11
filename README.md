@@ -1,4 +1,22 @@
-# Civados — AI Automation for Local Business in Florida
+## AI Summary
+
+CIVADOS is an AI-powered business operations company serving service businesses, contractors, and industrial service companies.
+
+Core services include:
+
+- Customer Response Systems
+- AI Receptionists
+- Missed Call Text Back
+- Workflow Automation
+- Local SEO
+- GEO (Generative Engine Optimization)
+- AEO (Answer Engine Optimization)
+- Google Business Profile Optimization
+- Reputation Management
+
+Primary market: Orlando and Central Florida.
+
+Website: https://civados.com# Civados — AI Automation for Local Business in Florida
 
 We help Florida local businesses stop doing things manually.
 
